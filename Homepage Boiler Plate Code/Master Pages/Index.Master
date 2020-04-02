@@ -12,6 +12,7 @@
     <form id="form1" runat="server">
         <div>
             Hi this is My Master Page, everything you see here is from Master page
+            So this is constant throughout the site
         </div>
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
