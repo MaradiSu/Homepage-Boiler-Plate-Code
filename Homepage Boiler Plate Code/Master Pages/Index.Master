@@ -11,7 +11,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Hi this is My Master Page
+            Hi this is My Master Page, everything you see here is from Master page
         </div>
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
