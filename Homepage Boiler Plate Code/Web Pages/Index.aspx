@@ -3,6 +3,6 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div>
-        Hi i am Web Page
+        Hi i am Web Page and i am dynamic page
     </div>
 </asp:Content>
